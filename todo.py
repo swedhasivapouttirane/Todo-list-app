@@ -1,5 +1,3 @@
-# Todo-list-app
-
 tasks = []
 
 while True:
